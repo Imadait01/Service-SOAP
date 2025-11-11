@@ -155,4 +155,9 @@ mvn clean package
 2. Lancer `com.acme.cxf.SecureServer` (ou `Server`).
 3. Tester les WSDL et les appels via SoapUI ou un navigateur.
 
-Fin du README.
+<img width="1892" height="1042" alt="Screenshot 2025-11-11 145025" src="https://github.com/user-attachments/assets/988b4f8b-8941-4b22-81ab-4c367c868245" />
+<img width="1897" height="1028" alt="Screenshot 2025-11-11 145051" src="https://github.com/user-attachments/assets/ba715f71-0b61-4d1e-8188-6aa336faf3ce" />
+<img width="1831" height="972" alt="Screenshot 2025-11-11 163448" src="https://github.com/user-attachments/assets/12a52bcb-6623-40cc-9e59-6e8f91acff37" />
+
+
+
